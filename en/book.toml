@@ -1,0 +1,13 @@
+[book]
+title = "ML Guide"
+authors = ["SomeB1oody"]
+description = "A beginner-friendly guide to machine learning."
+language = "en"
+src = "src"
+
+[build]
+build-dir = "../book/en"
+
+[output.html]
+preferred-dark-theme = "navy"
+git-repository-url = "https://github.com/SomeB1oody/MLGuide"

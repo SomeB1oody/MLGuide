@@ -1,0 +1,13 @@
+[book]
+title = "机器学习指南"
+authors = ["SomeB1oody"]
+description = "一份面向初学者的机器学习指南。"
+language = "zh-Hans"
+src = "src"
+
+[build]
+build-dir = "../book/zh-Hans"
+
+[output.html]
+preferred-dark-theme = "navy"
+git-repository-url = "https://github.com/SomeB1oody/MLGuide"
