@@ -13,3 +13,4 @@
 - [Logistic Regression Practice (Advanced): Establishing a Second-Order Boundary Model](./Chapter-01/1.9/1.9._Logistic_Regression_Practice_(Advanced)_Building_a_Second_Order_Boundary_Model.md)
 - [Logistic Regression Practice (Advanced): Multivariate Logistic Regression](./Chapter-01/1.10/1.10._Logistic_Regression_Practice_(Advanced)_Higher_Order_Logistic_Regression_(Greater_Than_2).md)
 - [Unsupervised Learning: Clustering Analysis, KMeans Clustering, MeanShift Clustering, DBScan Algorithm](./Chapter-02/2.1/2.1._Unsupervised_Learning_Clustering_Analysis,_KMeans_Clustering,_Mean_Shift_Clustering_(MeanShift),_DBScan_Algorithm_(Density_Based_Spatial_Clustering_Algorithm).md)
+- [Clustering Analysis Algorithm Theory: KMeans Clustering, KNN, MeanShift Clustering](./Chapter-02/2.2/2.2._Clustering_Analysis_Algorithms_Theory_K_Means_Clustering_(KMeans_Analysis),_KNN_(K_Nearest_Neighbors_Classification),_Mean_Shift_Clustering_(MeanShift).md)
