@@ -16,3 +16,4 @@
 - [Clustering Analysis Algorithm Theory: KMeans Clustering, KNN, MeanShift Clustering](./Chapter-02/2.2/2.2._Clustering_Analysis_Algorithms_Theory_K_Means_Clustering_(KMeans_Analysis),_KNN_(K_Nearest_Neighbors_Classification),_Mean_Shift_Clustering_(MeanShift).md)
 - [KMeans Clustering (KMeans Analysis) Practice (Basic)](./Chapter-02/2.3/2.3._K_Means_Clustering_(KMeans_Analysis)_Practice_(Basics).md)
 - [KMeans Clustering (KMeans Analysis) Practice (Advanced)](./Chapter-02/2.4/2.4._K_Means_Clustering_(KMeans_Analysis)_Practice_(Advanced).md)
+- [Using KNN and MeanShift to Perform Clustering Analysis](./Chapter-02/2.5/2.5._Using_KNN_and_MeanShift_to_Perform_Clustering_Analysis_Practice.md)

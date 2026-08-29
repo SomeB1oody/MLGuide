@@ -16,3 +16,4 @@
 - [聚类分析算法理论：KMeans聚类、KNN、均值漂移聚类（MeanShift）](./Chapter-02/2.2/2.2._聚类分析算法理论_K均值聚类(KMeans_Analysis)、KNN(K近邻分类)、均值漂移聚类(MeanShift).md)
 - [K均值聚类（KMeans Analysis）实战（基础）](./Chapter-02/2.3/2.3._K均值聚类(KMeans_Analysis)实战(基础).md)
 - [K均值聚类（KMeans Analysis）实战（进阶）](./Chapter-02/2.4/2.4._K均值聚类(KMeans_Analysis)实战(进阶).md)
+- [使用KNN与Meanshift实现聚类分析](./Chapter-02/2.5/2.5._使用KNN与MeanShift分别实现聚类分析实战.md)
