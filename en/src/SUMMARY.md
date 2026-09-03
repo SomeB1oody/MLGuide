@@ -17,4 +17,5 @@
 - [KMeans Clustering (KMeans Analysis) Practice (Basic)](./Chapter-02/2.3/2.3._K_Means_Clustering_(KMeans_Analysis)_Practice_(Basics).md)
 - [KMeans Clustering (KMeans Analysis) Practice (Advanced)](./Chapter-02/2.4/2.4._K_Means_Clustering_(KMeans_Analysis)_Practice_(Advanced).md)
 - [Using KNN and MeanShift to Perform Clustering Analysis](./Chapter-02/2.5/2.5._Using_KNN_and_MeanShift_to_Perform_Clustering_Analysis_Practice.md)
-- [Decision Tree Theory (Basic)](./Chapter-03/3.1/3.1._Decision_Tree_Theory_(Basics).md)
+- [Decision Tree Theory (Basic)](./Chapter-03/3.1/3.1._Decision_Tree_Theory_(Basics).md)\
+- [Decision Tree Theory (Advanced): ID3 Algorithm, Information Entropy Principle, Information Gain](./Chapter-03/3.2/3.2._Decision_Tree_Theory_(Advanced)_ID3_Algorithm,_Information_Entropy,_Information_Gain.md)

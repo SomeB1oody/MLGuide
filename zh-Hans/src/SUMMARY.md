@@ -18,3 +18,4 @@
 - [K均值聚类（KMeans Analysis）实战（进阶）](./Chapter-02/2.4/2.4._K均值聚类(KMeans_Analysis)实战(进阶).md)
 - [使用KNN与Meanshift实现聚类分析](./Chapter-02/2.5/2.5._使用KNN与MeanShift分别实现聚类分析实战.md)
 - [决策树理论（基础）](./Chapter-03/3.1/3.1._决策树理论(基础).md)
+- [决策树理论（进阶）：ID3算法、信息熵原理、信息增益](./Chapter-03/3.2/3.2._决策树理论(进阶)_ID3算法、信息熵原理、信息增益.md)
