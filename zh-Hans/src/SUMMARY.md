@@ -20,3 +20,4 @@
 - [决策树理论（基础）](./Chapter-03/3.1/3.1._决策树理论(基础).md)
 - [决策树理论（进阶）：ID3算法、信息熵原理、信息增益](./Chapter-03/3.2/3.2._决策树理论(进阶)_ID3算法、信息熵原理、信息增益.md)
 - [异常检测（Anomaly Detection）理论：概率密度、正态分布](./Chapter-03/3.3/3.3._异常检测(Anomaly_Detection)理论_概率密度、正态分布.md)
+- [主成分分析（Principal Component Analysis）理论](./Chapter-03/3.4/3.4._主成分分析(Principal_Component_Analysis)理论.md)
